@@ -53,6 +53,7 @@ The files will be stored within the `mobile-security-vagrant` folder
 ## Tools used
 
 * [drozer](https://github.com/mwrlabs/drozer) - Android Dynamic Security Testing Framework
+* [frida](https://github.com/frida/frida) - Cross platform hooking framework
 * [apktool](https://github.com/iBotPeaches/Apktool) - Decompiling/Patching Android apps
 * [jadx](https://github.com/skylot/jadx) - Decompiling Android apps
 * [dex2jar](https://github.com/pxb1988/dex2jar) - Decompiling Android apps
