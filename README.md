@@ -1,4 +1,4 @@
-# Vagrant Mobile Security Box
+# Mobile Security Vagrant
 
 Vagrant build for testing Android and iOS applications. Designed to run in headless mode, all configured tools use the cli.
 
@@ -9,6 +9,7 @@ These instructions can be used to install and launch the box.
 ### Prerequisites
 
 Install latest Vagrant from https://www.vagrantup.com/downloads.html
+
 Install virtualbox and extension pack from https://www.virtualbox.org/
 
 ### Installing
@@ -62,7 +63,8 @@ The files will be stored within the `mobile-security-vagrant` folder
 * [qark](https://github.com/linkedin/qark/) - Android source code review
 * [androbugs](https://github.com/AndroBugs/AndroBugs_Framework) - Android source code review
 * [radare2](https://github.com/radare/radare2) - Debugger 
-
+* [owasp-mstg](https://github.com/OWASP/owasp-mstg) - OWASP Mobile Testing Guide
+* [owasp-masvs](https://github.com/OWASP/owasp-masvs) - OWASP Mobile Application Security Verification Standard
 
 
 
